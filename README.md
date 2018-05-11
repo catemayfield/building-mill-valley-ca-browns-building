@@ -1,5 +1,3 @@
-[please edit content below]
-
 # Brown's Building (Old Brown's Store)
 38 Miller Avenue, Mill Valley, CA 94941
 
