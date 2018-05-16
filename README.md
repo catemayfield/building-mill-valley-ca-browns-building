@@ -9,7 +9,7 @@ This building was built in 1939 and known as Brown’s Furniture Store. It was a
 - Model completed: May, 2018
 - Modeled in SketchUp 2018
 
-![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-browns-building/blob/master/sketchup_image.jpg)
+![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-browns-building/blob/master/sketchup-image.jpg)
 
 
 ## Online References
