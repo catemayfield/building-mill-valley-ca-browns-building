@@ -2,7 +2,11 @@
 38 Miller Avenue, Mill Valley, CA 94941
 
 ## Building History
-This building was built in 1939 and known as Brown’s Furniture Store. It was a wide building with large wide windows on the first floor and smaller windows on the second floor. This buildings was used to sell furniture to local customers. There is not a lot of information about this building, except for an image of the front of the store. The building is now the Balboa Cafe, but the current building does not have a similar appearance to Brown’s Furniture store because many buildings were built on the same lot as Brown’s over years. 
+This building was built in 1927 and known as Brown’s Home Furnishers. The store was opened by S.H. Brown and his son Lester Brown. It was a wide building with large wide windows on the first floor and smaller windows on the second floor. This buildings was used to sell furniture to local customers. 
+
+In a Mill Valley Record article, Lester explained that when they first opened they featured Victrolas and furniture and soon added crystal sets and battery radios. Over the years the store grew to include an upholstery shop, to offer decorating services, appliances, an outdoor shop, and more. It closed in the late 1960s and the building was later extensively remodeled. It would become a complex of shops known as Old Browns Store (no apostrophe). In 1990 the building was remodeled once again and renamed Mill Creek Plaza, which it remains today.
+
+
 
 ## SketchUp Model
 - Model Creator: Connor Ng
