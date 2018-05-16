@@ -14,6 +14,7 @@ In a Mill Valley Record article, Lester explained that when they first opened th
 - Modeled in SketchUp 2018
 
 ![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-browns-building/blob/master/sketchup-image.jpg)
+![Photo c.1935](https://github.com/TimeWalkOrg/building-mill-valley-ca-browns-building/blob/master/MVN0204A.jpg)
 
 
 ## Online References
